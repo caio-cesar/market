@@ -25,3 +25,6 @@ Init.prototype.incrementing = function() {
 console.log("new line");
 
 console.log("and doing else");
+
+
+console.log("changed locally");
