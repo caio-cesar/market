@@ -18,3 +18,7 @@ Init.prototype.doSomeMore = function() {
   console.log("Doing some more actions"); 
 }
 
+Init.prototype.incrementing = function() {
+  console.log("Now i'm incrementing");  
+}
+
