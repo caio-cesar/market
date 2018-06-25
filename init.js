@@ -14,3 +14,7 @@ Init.prototype.init = function() {
   console.log("Initializing...");
 };
 
+Init.prototype.doSomeMore = function() {
+  console.log("Doing some more actions"); 
+}
+
