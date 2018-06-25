@@ -22,3 +22,5 @@ Init.prototype.incrementing = function() {
   console.log("Now i'm incrementing");  
 }
 
+console.log("new line");
+
